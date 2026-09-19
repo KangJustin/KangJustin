@@ -30,6 +30,7 @@
 
 ### `~/now`
 
+- 🤖 Robotics intern at Ambi Robotics for the fall
 - 🎓 Fall 2026 at Berkeley: STAT 159, ENGIN 183, CW 11, IEOR 142A
 - 🛠️ Shipping small agentic tools and hackathon projects
 - 📫 Best reached by email
