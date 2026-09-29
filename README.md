@@ -19,13 +19,12 @@
 | **[BuzzBuddy](https://github.com/KangJustin/buzzbuddy)** | iOS check-in companion that compares reaction time, balance and memory to your sober baseline, with an agentic AI examiner. 3rd place. | MLH × DigitalOcean |
 | **[BlastRadius](https://github.com/KangJustin/blastradius)** | Agentic code-risk analyst that walks a real call graph to explain what breaks before you change it. | JacHacks 2026 |
 | **[UrbanPilot](https://github.com/KangJustin/urbanpilot)** | Multi-agent urban planning copilot: climate, accessibility and housing analysis with 2040/2075 scenarios. | UC Berkeley AI Hackathon 2026 |
-| **[Deadline Digest](https://github.com/KangJustin/deadline-digest)** | Apps Script that emails my upcoming course deadlines every Monday and Thursday at 7 AM. | Personal project |
-| **[Portfolio](https://github.com/KangJustin/Justin-Kang-Portfolio)** | Terminal-inspired personal site in React, TypeScript and Vite. | Personal project |
+| **[RC Excavator Scanner](https://github.com/KangJustin/rc-excavator-scanner)** | RC excavator that drives around an object, photographs it, and turns the photos into a 3D mesh, measurements and a parametric CAD model (COLMAP + Open3D + FreeCAD). | Weekend project |
 
 ### `~/stack`
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,swift,react,vite,fastapi,html,css,git,vercel,jupyter&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,swift,react,vite,fastapi,html,css,git,vercel,jupyter&theme=dark" alt="tech stack" />
 </p>
 
 ### `~/now`
