@@ -32,6 +32,6 @@
 - 🤖 Robotics intern at Ambi Robotics for the fall
 - 🎓 Fall 2026 at Berkeley: STAT 159, ENGIN 183, CW 11, IEOR 142A
 - 🛠️ Shipping small agentic tools and hackathon projects
-- 📫 Best reached by email
+- 📫 Best reached by email ([justin-kang@berkeley.edu](mailto:justin-kang@berkeley.edu))
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2a9d8f,100:0f1417&section=footer" width="100%" alt="" />
