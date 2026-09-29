@@ -30,7 +30,7 @@
 ### `~/now`
 
 - 🤖 Robotics intern at Ambi Robotics for the fall
-- 🎓 Fall 2026 at Berkeley: STAT 159, ENGIN 183, CW 11, IEOR 142A
+- 🎓 Fall 2026 at Berkeley: STAT 159 (Reproducible & Collaborative Statistical Data Science), ENGIN 183 (Special Topics in Technology Innovation & Entrepreneurship), CW 11 (Berkeley Changemaker: Public Speaking), IEOR 142A (Intro to Machine Learning & Data Analytics)
 - 🛠️ Shipping small agentic tools and hackathon projects
 - 📫 Best reached by email ([justin-kang@berkeley.edu](mailto:justin-kang@berkeley.edu))
 
